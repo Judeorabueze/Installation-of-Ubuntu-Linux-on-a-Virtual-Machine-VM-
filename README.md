@@ -22,14 +22,14 @@ This project demonstrates my practical ability to set up and configure a Linux o
 
 ##  Project Approach
 
-### 1. Download and Install a VirtualBox
+### 1. Downloaded and Installed a VirtualBox
 -	Visited the VirtualBox official website https://www.virtualbox.org/wiki/Downloads
 -	Selected the appropriate VirtualBox platform package (In my case, Windows) 
 -	Clicked the host (Windows) and allow to download.
 -	Double-clicked on the downloaded Oracle VirtualBox installation file and start the installation.
 -	See step by step guide in the [Windows-11-Virtual-Homelab-Setup](https://github.com/Judeorabueze/Windows-11-Virtual-Homelab-Setup)
 
-### 2. Download Ubuntu ISO
+### 2. Downloaded Ubuntu ISO
 - Visited the official Ubuntu website - https://ubuntu.com
 - Clicked on "Download Ubuntu" and then "Download Ubuntu Deskt0p'.
   
@@ -37,3 +37,10 @@ This project demonstrates my practical ability to set up and configure a Linux o
 
 - Selected Ubuntu 24.04.2 LTS and clicked on "Download' to start the download.
   (The choice of Ubuntu ISO version was due to its long-term support - Five (5) years of free security and maintenance updates).
+
+![Ubuntu 2](https://github.com/Judeorabueze/Installation-of-Ubuntu-Linux-on-a-Virtual-Machine-VM-/blob/main/image.png)
+
+At the completion of the file download, the Ubuntu ISO file was saved to my desktop.
+
+### 3. Installed and Configured VirtualBox
+
