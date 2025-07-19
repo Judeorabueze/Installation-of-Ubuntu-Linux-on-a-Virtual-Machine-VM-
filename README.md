@@ -19,3 +19,14 @@ This project demonstrates my practical ability to set up and configure a Linux o
 | Oracle VM VirtualBox       | Virtualization software                     |
 | Host System: Windows 10    | Environment used to run VirtualBox          |
 | Terminal                   | Used for post-installation commands         |
+
+##  Project Approach
+
+### 1. Download and Install a VirtualBox
+-	Visit https://www.virtualbox.org/wiki/Downloads
+-	Select the appropriate VirtualBox platform package (In this case, Windows) 
+-	Click the host (Windows) and allow to download.
+-	Double-click on the downloaded Oracle VirtualBox installation file and start the installation.
+-	See step by step guide as contained in the [Windows-11-Virtual-Homelab-Setup](https://github.com/Judeorabueze/Windows-11-Virtual-Homelab-Setup)
+
+### 2. Download Ubuntu ISO
