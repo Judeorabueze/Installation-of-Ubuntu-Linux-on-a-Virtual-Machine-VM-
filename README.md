@@ -31,11 +31,11 @@ This project demonstrates my practical ability to set up and configure a Linux o
 
 ### 2. Downloaded Ubuntu ISO
 - Visited the official Ubuntu website - https://ubuntu.com
-- Clicked on "Download Ubuntu" and then "Download Ubuntu Deskt0p'.
+- Clicked on <b>Download Ubuntu</b> and then <b>Download Ubuntu Desktop</b>.
   
 ![Ubuntu 1](https://github.com/Judeorabueze/Installation-of-Ubuntu-Linux-on-a-Virtual-Machine-VM-/blob/main/Ubuntu%201.PNG)
 
-- Selected Ubuntu 24.04.2 LTS and clicked on "Download' to start the download.
+- Selected <b>Ubuntu 24.04.2 LTS</b> and clicked on <b>Download</b> to start the download.
   (The choice of Ubuntu ISO version was due to its long-term support - Five (5) years of free security and maintenance updates).
 
 ![Ubuntu 2](https://github.com/Judeorabueze/Installation-of-Ubuntu-Linux-on-a-Virtual-Machine-VM-/blob/main/image.png)
@@ -43,4 +43,9 @@ This project demonstrates my practical ability to set up and configure a Linux o
 At the completion of the file download, the Ubuntu ISO file was saved to my desktop.
 
 ### 3. Installed and Configured VirtualBox
-
+- Launched the already-installed Oracle VirtualBox.
+- On the <b>Tools bar</b>, clicked <b>New</b>.
+- In the <b>Create Virtual Machine</b> dialog box that appeared, I named my Ubuntu virtual machine <b>Ubuntu 1</b>.
+- Uploaded the downloaded Ubuntu ISO image.
+- The <b>Type, Subtype, and Version</b> fields were automatically populated.
+  
