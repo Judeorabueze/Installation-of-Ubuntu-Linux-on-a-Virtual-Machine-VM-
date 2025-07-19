@@ -68,4 +68,6 @@ To complete the installation, i performed the following:
 - Started the <b>Ubuntu 1</b> Virtual Machine using the <b>Start</b> button.
 - Selected <b>Try or Install Ubuntu</b> on the GRUB bootloader menu that appeared when booting an Ubuntu installation ISO.
 
+![Ubuntu 6](https://github.com/Judeorabueze/Installation-of-Ubuntu-Linux-on-a-Virtual-Machine-VM-/blob/main/Ubuntu%206.PNG)
+
   
