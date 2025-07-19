@@ -17,6 +17,5 @@ This project demonstrates my practical ability to set up and configure a Linux o
 | -------------------------- | ------------------------------------------- |
 | Ubuntu 22.04 LTS ISO       | Linux distribution to be installed          |
 | Oracle VM VirtualBox       | Virtualization software                     |
-| Host System: Windows 10/11 | Environment used to run VirtualBox          |
-| Virtual Disk Image (VDI)   | Virtual hard disk format used by VirtualBox |
+| Host System: Windows 10    | Environment used to run VirtualBox          |
 | Terminal                   | Used for post-installation commands         |
