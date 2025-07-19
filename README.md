@@ -1,4 +1,4 @@
-<img width="1274" height="409" alt="image" src="https://github.com/user-attachments/assets/2297a69e-0712-4813-aee5-7d7ef5027aa8" />#  Installation of Ubuntu Linux on a Virtual Machine (VM)
+#  Installation of Ubuntu Linux on a Virtual Machine (VM)
 
 ## Introduction
 
