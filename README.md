@@ -74,4 +74,7 @@ To complete the installation, i performed the following:
   
 ![Ubuntu 7](https://github.com/Judeorabueze/Installation-of-Ubuntu-Linux-on-a-Virtual-Machine-VM-/blob/main/Ubuntu%207.PNG)
 
-
+### Other Setups:
+- Took the Snapshot of Ubuntu 1 (On the menu bar of Ubuntu VM, clicked on <b>Machine</b> , selected <b>Take Snapshot</b>, Named the snapshot and clicked OK).
+- On Ubuntu VM <b>Devices</b>, set  <b>Shared Clipboard</b> on <b>Bidirectional<b>.
+- On Ubuntu VM <B>Devices</b>, set <b>Drag and Drop</b> to Bidirectional.
