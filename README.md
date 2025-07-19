@@ -48,4 +48,4 @@ At the completion of the file download, the Ubuntu ISO file was saved to my desk
 - In the <b>Create Virtual Machine</b> dialog box that appeared, I named my Ubuntu virtual machine <b>Ubuntu 1</b>.
 - Uploaded the downloaded Ubuntu ISO image.
 - The <b>Type, Subtype, and Version</b> fields were automatically populated.
-  
+- Skipped <b> Unattended Installation</b>.
