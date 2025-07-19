@@ -32,3 +32,7 @@ This project demonstrates my practical ability to set up and configure a Linux o
 ### 2. Download Ubuntu ISO
 - Visited the official Ubuntu website - https://ubuntu.com
 - Clicked on "Download Ubuntu" and then select "Download Ubuntu Deskt0p' to start the download.
+  
+![Ubuntu 1](https://github.com/Judeorabueze/Installation-of-Ubuntu-Linux-on-a-Virtual-Machine-VM-/blob/main/Ubuntu%201.PNG)
+
+
