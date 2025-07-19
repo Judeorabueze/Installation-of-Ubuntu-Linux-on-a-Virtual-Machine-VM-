@@ -54,9 +54,9 @@ At the completion of the file download, the Ubuntu ISO file was saved to my desk
 
 - Clicked on <b>Hardware</b> to allocate system resources via the hypervisor.
   (I assigned memory and processor cores based on my computer’s available base resources while ensuring i stayed within the green zone to avoid over-allocating and ensure stable performance).
-- Checked the box - <b>Enable EFI (Special OSes only0</b> for smoother installation and better compatibility especially with modern Linux Distros like Ubuntu.
+- Checked the box - <b>Enable EFI (Special OSes only)</b> for smoother installation and better compatibility especially with modern Linux Distros like Ubuntu.
   
   ![Ubuntu 4a](https://github.com/Judeorabueze/Installation-of-Ubuntu-Linux-on-a-Virtual-Machine-VM-/blob/main/Ubuntu%204a.PNG)
 
-  
+- Increased the Hard Disk size to 50GB and click on finish. (Ubuntu Desktop requires at least 25GB for installation. If your host machine has enough free space, allocating 40–50GB is a safe choice for smooth performance and flexibility.)
 
