@@ -71,4 +71,7 @@ To complete the installation, i performed the following:
 ![Ubuntu 6](https://github.com/Judeorabueze/Installation-of-Ubuntu-Linux-on-a-Virtual-Machine-VM-/blob/main/Ubuntu%206.PNG)
 
 - Ubuntu Desktop booted successfully and opened confirming a successful installation.
+  
+![Ubuntu 7](https://github.com/Judeorabueze/Installation-of-Ubuntu-Linux-on-a-Virtual-Machine-VM-/blob/main/Ubuntu%207.PNG)
+
 
