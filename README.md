@@ -80,8 +80,21 @@ To complete the installation, i performed the following:
 - On Ubuntu VM <b>Devices</b>, set <b>Drag and Drop</b> to Bidirectional.
 - Took the Snapshot of Ubuntu 1 (On the menu bar of Ubuntu VM, clicked on <b>Machine</b> , selected <b>Take Snapshot</b>, Named the snapshot and clicked OK).
 
-## Launched Ubuntu VM Terminal
+### Launched Ubuntu VM Terminal
 - Used Ctrl + Alt + T to launch Ubuntu VM terminal
 - <b>Ping google.com</b> on the terminal and received responses. This confirmed that the Ubuntu 1 VM is functioning well.
 
+![Ubuntu 8](https://github.com/Judeorabueze/Installation-of-Ubuntu-Linux-on-a-Virtual-Machine-VM-/blob/main/Ubuntu%208.PNG)
+
+## Lessons Learnt
+
+- Gained hands-on experience installing Ubuntu Linux on a virtual machine and configuring system resources.
+- Improved ability to follow step-by-step technical documentation accurately and independently.
+- Developed troubleshooting skills by resolving boot and ISO mounting issues during installation.
+- Strengthened command-line confidence by performing post-installation tasks using Linux terminal commands.
+- Used ChatGPT effectively as a learning aid to clarify confusing steps and troubleshoot issues, reinforcing my problem-solving ability and resourcefulness.
+
+## Conclusion
+
+This project provided hands-on experience with installing and configuring Ubuntu Linux on a virtual machine using Oracle VirtualBox. It strengthened my understanding of virtualization, system setup, and Linux basics—essential skills for roles in IT support, cybersecurity, and systems administration. The ability to follow technical instructions, troubleshoot issues, and document the process has further enhanced my confidence in real-world technical environments.
   
