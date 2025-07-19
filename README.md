@@ -50,8 +50,12 @@ At the completion of the file download, the Ubuntu ISO file was saved to my desk
 - The <b>Type, Subtype, and Version</b> fields were automatically populated.
 - Skipped <b> Unattended Installation</b>.
 
-[Ubuntu 3](https://github.com/Judeorabueze/Installation-of-Ubuntu-Linux-on-a-Virtual-Machine-VM-/blob/main/Ubuntu%203.PNG)
+![Ubuntu 3](https://github.com/Judeorabueze/Installation-of-Ubuntu-Linux-on-a-Virtual-Machine-VM-/blob/main/Ubuntu%203.PNG)
 
 - Clicked on <b>Hardware</b> to allocate system resources via the hypervisor.
-  I assigned memory and processor cores based on my computer’s available base resources while ensuring i stayed within the green zone to avoid over-allocating and ensure stable performance.
+  (I assigned memory and processor cores based on my computer’s available base resources while ensuring i stayed within the green zone to avoid over-allocating and ensure stable performance).
+
+  ![Ubuntu 4a](https://github.com/Judeorabueze/Installation-of-Ubuntu-Linux-on-a-Virtual-Machine-VM-/blob/main/Ubuntu%204a.PNG)
+
+  
 
