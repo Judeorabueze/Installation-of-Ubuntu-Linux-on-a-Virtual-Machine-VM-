@@ -60,3 +60,12 @@ At the completion of the file download, the Ubuntu ISO file was saved to my desk
 
 - Increased the Hard Disk size to 50GB and click on finish. (Ubuntu Desktop requires at least 25GB for installation. If your host machine has enough free space, allocating 40–50GB is a safe choice for smooth performance and flexibility.)
 
+![Ubuntu 5](https://github.com/Judeorabueze/Installation-of-Ubuntu-Linux-on-a-Virtual-Machine-VM-/blob/main/Ubuntu%205.PNG)
+Ubuntu virtual machine has been partially created and powered off.
+
+To complete the installation, i performed the following:
+
+- Started the <b>Ubuntu 1</b> Virtual Machine using the <b>Start</b> button.
+- Selected <b>Try or Install Ubuntu</b> on the GRUB bootloader menu that appeared when booting an Ubuntu installation ISO.
+
+  
